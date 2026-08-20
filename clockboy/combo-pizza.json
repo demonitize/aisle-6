@@ -1714,6 +1714,12 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1785637177117,
       "departments": [{ "Name": "Customer Service", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Bagel_TheGod",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1787195438976,
+      "departments": [{ "Name": "Electronics", "ID": 0 }]
     }
   ],
   "footer": {
