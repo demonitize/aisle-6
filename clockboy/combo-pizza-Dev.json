@@ -801,18 +801,6 @@
       "VRC_Username": "XenoSpark"
     },
     {
-      "Departments": [
-        { "Name": "MANAGEMENT" },
-        { "Name": "MARKETING" },
-        { "Name": "Portrait Studio" },
-        { "Name": "SECURITY" }
-      ],
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "RegistryTimeStamp": 1742524481166,
-      "VRC_Username": "Sugar Fang"
-    },
-    {
       "Departments": [{ "Name": "Electronics" }],
       "Dev": false,
       "FunnyCallboxes": false,
