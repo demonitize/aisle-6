@@ -1720,6 +1720,15 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1787195438976,
       "departments": [{ "Name": "Electronics", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Reimajo",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1788202697427,
+      "departments": [
+        { "Name": "DEVELOPER", "ID": 0 },
+        { "Name": "Admin Panel Dev", "ID": 0 }
+      ]
     }
   ],
   "footer": {

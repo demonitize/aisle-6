@@ -1976,6 +1976,13 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "Electronics" }]
+    },
+    {
+      "VRC_Username": "Reimajo",
+      "RegistryTimeStamp": 1788202697427,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "DEVELOPER" }, { "Name": "Admin Panel Dev" }]
     }
   ],
   "header": {
