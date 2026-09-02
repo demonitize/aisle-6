@@ -1591,12 +1591,6 @@
       "departments": [{ "Name": "DEVELOPER", "ID": 0 }]
     },
     {
-      "VRC_Username": "Sammybullshark",
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1782999639726,
-      "departments": [{ "Name": "Layaway", "ID": 0 }]
-    },
-    {
       "VRC_Username": "RavenTheWolf",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1783482548030,
@@ -1723,6 +1717,12 @@
         { "Name": "DEVELOPER", "ID": 0 },
         { "Name": "Admin Panel Dev", "ID": 0 }
       ]
+    },
+    {
+      "VRC_Username": "5ofPentacles",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1788324016461,
+      "departments": [{ "Name": "Janitorial", "ID": 0 }]
     }
   ],
   "footer": {
