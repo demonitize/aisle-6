@@ -1371,7 +1371,7 @@
       "FunnyCallboxes": false,
       "Departments": [
         { "Name": "VENDOR" },
-        { "Name": "LPD Sergeant" },
+        { "Name": "LPD Staff" },
         { "Name": "is dating Sorb" },
         { "Name": "<color=#fcba03>PISS YELLOW</color>" }
       ]
@@ -1840,18 +1840,6 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "Electronics" }]
-    },
-    {
-      "VRC_Username": "Nathanimall",
-      "RegistryTimeStamp": 1783615810918,
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "Departments": [
-        { "Name": "Customer Service" },
-        { "Name": "stupid fucking former LPD staff" },
-        { "Name": "VENDOR" },
-        { "Name": "F I S H" }
-      ]
     },
     {
       "VRC_Username": "Schmeeb",
