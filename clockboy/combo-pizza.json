@@ -1717,6 +1717,18 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1788324016461,
       "departments": [{ "Name": "Janitorial", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "HonorofLiberty",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1788642510779,
+      "departments": [{ "Name": "LPD STAFF", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "RookVR",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1788642510781,
+      "departments": [{ "Name": "LPD STAFF", "ID": 0 }]
     }
   ],
   "footer": {
