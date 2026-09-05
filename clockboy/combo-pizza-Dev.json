@@ -1959,6 +1959,20 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "Janitorial" }]
+    },
+    {
+      "VRC_Username": "HonorofLiberty",
+      "RegistryTimeStamp": 1788642510779,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "LPD STAFF" }]
+    },
+    {
+      "VRC_Username": "RookVR",
+      "RegistryTimeStamp": 1788642510781,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "LPD STAFF" }]
     }
   ],
   "header": {
