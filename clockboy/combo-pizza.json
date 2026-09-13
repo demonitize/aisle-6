@@ -1006,15 +1006,6 @@
       "departments": [{ "Name": "Bakery/Deli", "ID": 0 }]
     },
     {
-      "VRC_Username": "Aura Natsumi",
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1759202161703,
-      "departments": [
-        { "Name": "MANAGEMENT", "ID": 0 },
-        { "Name": "Electronics", "ID": 0 }
-      ]
-    },
-    {
       "VRC_Username": "Ghost Becky",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1759364917847,
@@ -1160,15 +1151,6 @@
       "departments": [{ "Name": "KCafe", "ID": 0 }]
     },
     {
-      "VRC_Username": "MiiaFoxx",
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1766864448731,
-      "departments": [
-        { "Name": "MANAGEMENT", "ID": 0 },
-        { "Name": "Customer Service", "ID": 0 }
-      ]
-    },
-    {
       "VRC_Username": "~Sinny~",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1767220405010,
@@ -1187,16 +1169,6 @@
         { "Name": "VENDOR", "ID": 0 },
         { "Name": "LPD Sergeant", "ID": 0 },
         { "Name": "<color=#ff54ee>PEPTO PINK</color>", "ID": 0 }
-      ]
-    },
-    {
-      "VRC_Username": "MysticRic",
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1767583917975,
-      "departments": [
-        { "Name": "MANAGEMENT", "ID": 0 },
-        { "Name": "Home Improvement Manager", "ID": 0 },
-        { "Name": "Discount Tim \"The Toolman\" Taylor", "ID": 0 }
       ]
     },
     {
